@@ -1,0 +1,69 @@
+.t-display-xl {
+  font-family: var(--font-serif);
+  font-size: clamp(2.25rem, 1.2rem + 4.6vw, 6rem);
+  line-height: 1.04;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  text-wrap: balance;
+}
+
+.t-display-l {
+  font-family: var(--font-serif);
+  font-size: clamp(2.75rem, 1.5rem + 5.5vw, 7.5rem);
+  line-height: 0.98;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  text-wrap: balance;
+}
+
+.t-display-m {
+  font-family: var(--font-serif);
+  font-size: clamp(2rem, 1.2rem + 3vw, 4.5rem);
+  line-height: 1.02;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  text-wrap: balance;
+}
+
+.t-display-s {
+  font-family: var(--font-serif);
+  font-size: clamp(1.5rem, 1.1rem + 1.5vw, 2.5rem);
+  line-height: 1.1;
+  font-weight: 400;
+  text-wrap: balance;
+}
+
+.t-body-l {
+  font-size: clamp(1.0625rem, 1rem + 0.3vw, 1.25rem);
+  line-height: 1.6;
+  text-wrap: pretty;
+}
+
+.t-body {
+  font-size: 1rem;
+  line-height: 1.65;
+  max-width: var(--measure);
+  text-wrap: pretty;
+}
+
+.t-mono {
+  font-family: var(--font-mono);
+  font-size: 0.6875rem;
+  line-height: 1.5;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+}
+
+.t-mono-text {
+  font-family: var(--font-mono);
+  font-size: 0.8125rem;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  font-variant-numeric: tabular-nums;
+}
+
+.serif-italic {
+  font-family: var(--font-serif);
+  font-style: italic;
+}
