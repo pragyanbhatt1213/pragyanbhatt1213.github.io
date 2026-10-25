@@ -44,7 +44,7 @@ npm run build
 
 ## GitHub Pages Deployment
 
-The repository is configured for automated deployment to **GitHub Pages** (`https://pragyanbhatt.github.io/`) via GitHub Actions.
+The repository is configured for automated deployment to **GitHub Pages** (`https://pragyanbhatt1213.github.io/pragyanbhatt.github.io/`) via GitHub Actions.
 
 ### 1. Enable GitHub Actions for Pages
 In your GitHub repository:
